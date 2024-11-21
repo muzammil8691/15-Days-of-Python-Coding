@@ -1,3 +1,3 @@
 # 15-Days-of-Python-Coding
 
-LinkedIn Profile: www.linkedin.com/in/m-muzammil-23jun20
+LinkedIn Profile: https://www.linkedin.com/in/m-muzammil8691/
